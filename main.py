@@ -2,7 +2,7 @@
 
 import turtle
 
-turtle.Screen().bgcolor("Gold")
+turtle.Screen().bgcolor("pink")
 turtle.Screen().setup(300,400)
 
 no_of_side = 6
